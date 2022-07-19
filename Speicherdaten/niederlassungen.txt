@@ -1,0 +1,2 @@
+Einbeck;Bier;1;1
+Hamburg;Bier;1;1
